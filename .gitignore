@@ -1,0 +1,15 @@
+# Ignore all
+*
+
+# Unignore directories
+!src/
+
+# Unignore source code files
+!**/*.cpp
+!**/*.hpp
+!**/*.h
+
+# Unignore .gitignore, readme, make, configure install specs
+!Makefile
+!README.md
+!.gitignore
